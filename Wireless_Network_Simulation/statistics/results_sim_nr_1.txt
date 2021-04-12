@@ -1,0 +1,7 @@
+RESULTS 
+Avarge packet error rate: 0.113325
+Maximal packet error rate: 0.344828
+Avarge number of retransmissions: 0.965714
+Throughput: 51.143720 [packets/s] 
+Avarge packet delay: 24225.680571 [ms] 
+Avarge waiting time: 2396.985537 [ms] 
