@@ -16,7 +16,9 @@ Jeśli mimo LR-krotnej próby retransmisji pakietu nie udało się poprawnie ode
 Opracuj symulator sieci bezprzewodowej zgodnie z metodą ABC.
 
 Za pomocą symulacji wyznacz:
+
 ● Wartość parametru L, która zapewni średnią pakietową stopę błędów (uśrednioną po K   odbiornikach) nie większą niż 0.1, a następnie:
+
 o pakietową stopę błędów w każdym z odbiorników mierzoną jako iloraz liczby pakietów straconych do liczby przesłanych pakietów,
 o średnią liczbę retransmisji pakietów,
 o przepływność systemu mierzoną liczbą poprawnie odebranych pakietów w jednostce czasu,
