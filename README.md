@@ -1,5 +1,7 @@
 # Wireless-Network-Simulation
-Simulation of wireless network with CSMA/CA protocol
+Symulacja sieci bezprzewodowej opartej na protokole CSMA/CA
+
+Projekt powstał w czerwcu 2020 roku w ramach realizacji zajęć z przedmiotu dotyczącego symulacji cyfrowych. 
 
 Treść rozwiązywanego problemu:
 
