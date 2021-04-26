@@ -6,7 +6,19 @@
 * [Setup](#setup)
 
 #General info
+sadasd
+
+
+
 
 #Technologies
 
+
+
+
+asdasd
 #Setup
+
+
+
+asdasd
