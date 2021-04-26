@@ -20,7 +20,9 @@ The application was developed in June 2020.
 
 ## Technologies
 
-C++
+Programming language: C++
+IDE: Visual Studio 2017
+
 
 ## Setup
 
